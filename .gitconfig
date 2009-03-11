@@ -1,0 +1,6 @@
+[core]
+	autocrlf = false
+	editor = /bin/vim.exe
+[user]
+	name = INOUE Yasuyuki
+	email = yasuyuki_inoue@wlw.co.jp
