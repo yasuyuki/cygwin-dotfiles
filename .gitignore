@@ -1,5 +1,6 @@
 .bash_history
 .viminfo
+/.ssh/id_rsa
 /.subversion/auth
 /.subversion/servers
 
